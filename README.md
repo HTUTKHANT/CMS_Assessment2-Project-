@@ -201,6 +201,6 @@ In summary, our journey in modifying WordPress themes for the JCU website was ma
 
 
 
-* Presentation Link: 
+* Presentation Link: https://github.com/HTUTKHANT/CMS_Assessment2-Project-/tree/main/Design%20Presentation%20Deck%20(Community)
 
 
