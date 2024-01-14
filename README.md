@@ -76,89 +76,14 @@ Should be careful with transfering files to the live server from localhost
 ---------------
 
 ### Goals
-* Deliver a product that serves as an effective digital front door that welcomes, informs, and converts visitors through a high-quality online experience that mirrors the institution's respectable standards.
-* Increase conversion rate
-* Increase acceptance rate: 5%
-* Increase open house attendance rate: 10%
+Create a digital interface that acts as a compelling online gateway, providing a welcoming, informative, and conversion-focused experience that aligns seamlessly with the institution's esteemed standards.
 
 ### Deployment
-As for our choice of deployment, our team chose [infinityfree hosting site](https://www.infinityfree.com/)
-* [Live Site](http://jcu14405427.rf.gd/)
-* <i>it is worth mentioning that I have been unable to solve the issues of hero-video not appearing on the live site sadly :( .</i>
-* [Staging Site](http://jcu14405427.rf.gd/wp-admin/)
+Our group chose Hostinger for deployment because one of our groupmates has an account of it.
 
-### Hosting Site: Decision Making
+Live Site Link: https://dohoonkim.net/
 
-Hosting Providers Overview
-<br>Free Hosting Providers:
 
-#### InfinityFree
-| Pros  | Cons |
-| ------------- | ------------- |
-| No cost  | Limited server resources |
-| Free Subdomain  | No ditect support  |
-| No ads | - |
-
-Reason for Choosing:
-* Cost-effective for testing and small projects.
-* Quick setup without initial investment.
-
-#### 000WebHost
-
-| Pros | Cons |
-| ------------- | ------------- |
-| Free with PHP and MySQL support | Forced ads on free tier |
-| One-click WordPress installation | Limited bandwidth and disk space |
-
-#### AwardSpace
-
-| Pros | Cons |
-| ------------- | ------------- |
-| Free with ad-free hosting | Limited bandwidth and storage |
-| Includes one email account | Only one domain allowed on the free plan |
-
-Paid Hosting Providers:
-
-#### SiteGround
-<i>SiteGround does offer free tier as Educational account, although, I have already used this :( </i>
-
-| Pros | Cons |
-| ------------- | ------------- |
-| Excellent customer support | Higher cost compared to others |
-| Managed WordPress hosting with automated updates | Limited storage on lower-tier plans |
-| Free SSL and CDN | - |
-
-#### Bluehost
-
-| Pros | Cons |
-| ------------- | ------------- |
-| Recommended by WordPress.org | Upselling during the signup process |
-| Free domain for the first year | Rates increase on renewal |
-| User-friendly for beginners | - |
-
-#### WP Engine
-
-| Pros | Cons |
-| ------------- | ------------- |
-| Premium managed WordPress hosting | Expensive for high-traffic sites |
-| Strong focus on speed and security | Storage limits could be restrictive |
-| Staging environments for testing | - |
-
-Selection Rationale for InfinityFree
-<br>
-InfinityFree was chosen based on several criteria pertinent to the project's requirements:
-
-* Budget: As a cost-free solution, it allows for the deployment of the site without * immediate financial investment.
-* Simplicity: Offers a quick and easy setup, which is ideal for initial testing and small-scale deployments.
-* Flexibility: Provides enough resources for a starter website, with options to upgrade to a paid service if necessary.
-
-#### Conclusion
-
-Reason for Choosing InfinityFree:
-* Cost-effective for testing and small projects.
-* Quick setup without initial investment.
-
-Each hosting provider has its unique set of features, and the best choice will depend on specific project needs such as budget, scale, performance, and support. <br>InfinityFree stands out as an excellent starting point for its no-cost service, making it suitable for initial deployments of small WordPress projects.
 
 ### Workflow
 ------------------------------------------------------------------------------------------
