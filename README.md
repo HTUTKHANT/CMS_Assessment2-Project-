@@ -20,8 +20,8 @@ Site link: https://dohoonkim.net/
 Full code for the final version [here](https://github.com/HTUTKHANT/CMS_Assessment2-Project-/tree/main/final/final_version(prototype_3))
 
 ### a2.html
-This file contains our team's, names, live site links, and project documentation; notably brief Local Environment and site goals.
-* <a href="https://github.com/Huang-Yuanhang/Slack/blob/main/a2.html" target="_blank">a2.html</a>
+
+* <a href="https://github.com/HTUTKHANT/CMS_Assessment2-Project-/blob/main/a2.html" target="_blank">a2.html</a>
 
 ### Local Development Environment
 The website was developed using [XAMPP v3.3.0](https://www.apachefriends.org/) as the local server environment with [WordPress 6.4.2](https://wordpress.com/) installed on it.
