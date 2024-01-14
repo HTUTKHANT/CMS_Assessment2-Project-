@@ -31,16 +31,16 @@ Installation
 
 ### Prerequisites:
 
-* XAMPP v3.3.0 or above
-* WordPress 6.4.2
-* Visual Studio Code (or any preferred IDE)
+* XAMPP version 3.3.0 or higher
+* WordPress version 6.4.2
+* Visual Studio Code 
 
-### Setup:
+### Setup Instructions:
 
-* Extract the WordPress 6.4.2.. ZIP archive to the htdocs directory in your XAMPP installation.
-* Configure XAMPP to run the MySQL database and Apache server.
-* Access the WordPress installation through https://localhost/wordpress-6.4.2/wordpress/ and complete the setup.
-* Activate the custom theme from the WordPress admin dashboard under Appearance > Themes.
+1. Unzip the WordPress 6.4.2. ZIP archive and place it in the htdocs directory within your XAMPP installation.
+2. Configure XAMPP to start the MySQL database and Apache server.
+3. Visit https://localhost/wordpress-6.4.2/wordpress/ to access the WordPress installation and follow the on-screen setup instructions.
+4. Activate the custom theme through the WordPress admin dashboard under Appearance > Themes.
 
 * For this project, access the staging/ live site through WP admin (login information in [a2.html](https://github.com/Huang-Yuanhang/Slack/blob/main/a2.html)) and export the backup through your choice of plug-in and import it to your WP environment.
 
