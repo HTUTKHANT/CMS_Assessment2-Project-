@@ -10,11 +10,11 @@ Group 1 SP53 CP3402 CMS
 
 ### Project Showcase
 
-* Visit Site [live](http://jcu14405427.rf.gd/) <br>
 ![site1](https://github.com/HTUTKHANT/CMS_Assessment2-Project-/blob/main/final/show1.gif)
 
 ![site2](https://github.com/HTUTKHANT/CMS_Assessment2-Project-/blob/main/final/show2.gif)
 
+Site link: https://dohoonkim.net/
 #### Code Showcase Gallery
 
 | Animation Trigger Code | Ranking Bars Implementation | CSS Animation Details |
