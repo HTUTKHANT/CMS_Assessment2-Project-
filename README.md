@@ -196,14 +196,14 @@ In summary, our journey in modifying WordPress themes for the JCU website was ma
 * [Slack](https://my-cqf8445.slack.com/ssb/redirect?_gl=1*llbl38*_gcl_au*MTk2NTUwOTIyMC4xNzAzMjE0ODAy) 
 
 #### Team Management Screenshots
-![slack](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/slack.png)
-![trello](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/trello.png)
-![discord1](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/dc1.png)
-![discord2](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/dc2.png)
-![discord5](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/dc5.png)
-![discord8](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/dc8.png)
+![Discord](https://github.com/HTUTKHANT/CMS_Assessment2-Project-/blob/main/Screenshots/discord.png)
+![Google Docs](https://github.com/HTUTKHANT/CMS_Assessment2-Project-/blob/main/Screenshots/google%20docs.png)
+![Slack](https://github.com/HTUTKHANT/CMS_Assessment2-Project-/blob/main/Screenshots/slack.png)
+![github project](https://github.com/HTUTKHANT/CMS_Assessment2-Project-/blob/main/Screenshots/github%20project.png)
+![Whatsapp](https://github.com/HTUTKHANT/CMS_Assessment2-Project-/blob/main/Screenshots/whatsapp2.jpg)
+
 
 
 * Presentation Link: 
----------------
+
 
