@@ -137,7 +137,7 @@ Website Iterations Part Two Screen shots:
 
 
 
-Part Two Reflection 
+###Part Two Reflection 
 
 Our journey into modifying existing WordPress themes for the JCU website started with a comprehensive review of our objectives. We carefully evaluated the criteria for the website development process, emphasizing the need for effective communication through channels like Slack, GitHub, Discord, and personal exchanges. Recognizing the diverse talents within our group, we aimed to harness these strengths for the optimal development of the JCU website.
 
