@@ -195,7 +195,7 @@ In summary, our journey in modifying WordPress themes for the JCU website was ma
 * [Discord](https://discord.gg/4nHKpFsZ) 
 * [Slack](https://my-cqf8445.slack.com/ssb/redirect?_gl=1*llbl38*_gcl_au*MTk2NTUwOTIyMC4xNzAzMjE0ODAy) 
 
-#### Team Management reference material
+#### Team Management Screenshots
 ![slack](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/slack.png)
 ![trello](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/trello.png)
 ![discord1](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/dc1.png)
@@ -204,11 +204,6 @@ In summary, our journey in modifying WordPress themes for the JCU website was ma
 ![discord8](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/dc8.png)
 
 
-see more material reference [here](https://github.com/Huang-Yuanhang/Slack/tree/main/Screenshots%20Evidence%20for%20A2)
-
-* Presentation Link: https://www.canva.com/design/DAF5eznj3fs/v7q9WYEo51VjKDN95LO-gw/edit?utm_content=DAF5eznj3fs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
+* Presentation Link: 
 ---------------
-    Support
----------------
-For any questions or support, please contact the project lead or refer to the WordPress Codex and developer resources for guidance.
+
