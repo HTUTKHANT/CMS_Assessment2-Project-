@@ -20,7 +20,7 @@ Site link: https://dohoonkim.net/
 Full code for the final version [here](https://github.com/HTUTKHANT/CMS_Assessment2-Project-/tree/main/final/final_version(prototype_3))
 
 ### a2.html
-
+This html contains our group team members' informations.
 * <a href="https://github.com/HTUTKHANT/CMS_Assessment2-Project-/blob/main/a2.html" target="_blank">a2.html</a>
 
 ### Local Development Environment
