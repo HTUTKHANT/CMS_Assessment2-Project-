@@ -72,7 +72,7 @@ Installation
 Should be careful with transfering files to the live server from localhost
 
 
-### Group 3 Project Documentation
+### Group 1 Project Documentation
 ---------------
 
 ### Goals
