@@ -188,14 +188,12 @@ As we approached the final design of the website, our preparation involved honin
 In summary, our journey in modifying WordPress themes for the JCU website was marked by challenges, collaborative learning, and strategic management. The impact of our meetings and decisions resonates in the cohesion of our team and the progress made towards our project goals.
 
   
-### Version Control 
-* [Version 1](https://github.com/Huang-Yuanhang/Slack) 
 
 ### Team Management Links
-* [GitHub](https://github.com/Huang-Yuanhang/Slack) 
-* [Slack](https://join.slack.com/t/cp3402hq/shared_invite/zt-29xrx5suu-AZqTqHKQyB3xvqQUB9crhw) 
-* [Discord](https://discord.gg/CZE7EJJQXa) 
-* [Trello](https://trello.com/invite/cp3402pbgroup3/ATTIfb2a4209a4423206cfd8c0d88d601c9cCA6346E9) 
+* [GitHub Repository](https://github.com/HTUTKHANT/CMS_Assessment2-Project-) 
+* [GitHub Project](https://github.com/users/Danilcool/projects/2) 
+* [Discord](https://discord.gg/4nHKpFsZ) 
+* [Slack](https://my-cqf8445.slack.com/ssb/redirect?_gl=1*llbl38*_gcl_au*MTk2NTUwOTIyMC4xNzAzMjE0ODAy) 
 
 #### Team Management reference material
 ![slack](https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/slack.png)
