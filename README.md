@@ -133,9 +133,7 @@ Feedback and Continuous Improvement:
 
 Website Iterations Part Two Screen shots:
 
-(https://github.com/HTUTKHANT/CMS_Assessment2-Project-/blob/main/prototype_2/2_content.png)
-
-
+![github project](https://github.com/HTUTKHANT/CMS_Assessment2-Project-/blob/main/prototype_2/2_content.png)
 
 ###Part Two Reflection 
 
