@@ -5,9 +5,7 @@ Group 1 SP53 CP3402 CMS
 
 blank
 
-### Project Structure
 
-blank
 ### Project Showcase
 
 ![site1](https://github.com/HTUTKHANT/CMS_Assessment2-Project-/blob/main/final/show1.gif)
