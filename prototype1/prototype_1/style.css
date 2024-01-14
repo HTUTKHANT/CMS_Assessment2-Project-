@@ -1,0 +1,28 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #5a5a5a;
+    color: #333;
+    margin: 0.4;
+    padding: 0.3;
+}
+
+.container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-color: rgb(82, 82, 27);
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col {
+    width: 50%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
