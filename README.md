@@ -42,13 +42,12 @@ Installation
 3. Visit https://localhost/wordpress-6.4.2/wordpress/ to access the WordPress installation and follow the on-screen setup instructions.
 4. Activate the custom theme through the WordPress admin dashboard under Appearance > Themes.
 
-* For this project, access the staging/ live site through WP admin (login information in [a2.html](https://github.com/Huang-Yuanhang/Slack/blob/main/a2.html)) and export the backup through your choice of plug-in and import it to your WP environment.
 
-### Theme Details
+### Detail for our custom theme
 
-* Name: JCU Custom Theme
-* Base: _s (Underscores)
-* Main Technologies: PHP, JavaScript, HTML5, CSS3, MySQL
+* Name: JCU Open House Theme 
+* Base: Underscores
+* Main Technologies: PHP, JavaScript, HTML5, CSS, MySQL
 * Custom Theme Files:
 * style.css: The main stylesheet.
 * functions.php: Theme functions and WordPress hooks.
@@ -70,20 +69,8 @@ Installation
 
 ### Deployment
 
-Deployment to the live server should be done in accordance with the established deployment procedures, which may involve:
+Should be careful with transfering files to the live server from localhost
 
-* Manual file transfer via FTP/SFTP.
-* Automated deployment using CI/CD pipelines.
-* Direct commits to a production branch in version control, if configured to auto-deploy.
-* Ensure that backups and a rollback plan are in place before deploying.
-
-### Additional Notes
-
-1. All changes to the theme and plugins should be tracked in version control.
-2. Maintain coding standards and documentation for future developers.
-3. Test on different browsers and devices to ensure compatibility.
-4. Due to being unable to configure the underscores theme name, '@package version2', as we didn't want to change and corrupt the whole file (this is untested), we decided to leave the name as that.
-* this makes uploading the theme files to WordPress will leave the name of the theme as version2.
 
 ### Group 3 Project Documentation
 ---------------
