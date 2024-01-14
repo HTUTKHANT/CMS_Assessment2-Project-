@@ -2,8 +2,7 @@ James Cook University Website Development README
 Group 1 SP53 CP3402 CMS
 
 ### Overview
-
-blank
+All the information required for a developer to carry on creating and implementing the project Openhouse website is contained in this document. The website, which uses a custom WordPress theme, aims to give potential students, parents, faculty, and the academic community an interesting and educational experience.
 
 
 ### Project Showcase
