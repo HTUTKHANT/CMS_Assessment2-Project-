@@ -11,11 +11,9 @@ Group 1 SP53 CP3402 CMS
 ### Project Showcase
 
 * Visit Site [live](http://jcu14405427.rf.gd/) <br>
-![fullsite](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/fullsite.gif)
-* Animated visual
-<br> ![ranking](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/ranking.gif)
-* Features
-<br> ![backtotop](https://github.com/Huang-Yuanhang/Slack/blob/main/a2%20gif/backtotop.gif)
+![site1](https://github.com/HTUTKHANT/CMS_Assessment2-Project-/blob/main/final/show1.gif)
+
+![site2](https://github.com/HTUTKHANT/CMS_Assessment2-Project-/blob/main/final/show2.gif)
 
 #### Code Showcase Gallery
 
