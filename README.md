@@ -3,11 +3,11 @@ Group 1 SP53 CP3402 CMS
 
 ### Overview
 
-
+blank
 
 ### Project Structure
 
-
+blank
 ### Project Showcase
 
 ![site1](https://github.com/HTUTKHANT/CMS_Assessment2-Project-/blob/main/final/show1.gif)
@@ -15,14 +15,9 @@ Group 1 SP53 CP3402 CMS
 ![site2](https://github.com/HTUTKHANT/CMS_Assessment2-Project-/blob/main/final/show2.gif)
 
 Site link: https://dohoonkim.net/
-#### Code Showcase Gallery
+#### Codes used for our website
 
-| Animation Trigger Code | Ranking Bars Implementation | CSS Animation Details |
-|:----------------------:|:---------------------------:|:---------------------:|
-| <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20showcase%20code%201.png" width="100px" /> | <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20showcase%20code%202.png" width="100px" /> | <img src="https://github.com/Huang-Yuanhang/Slack/blob/main/Screenshots%20Evidence%20for%20A2/a2%20showcase%20code%203.png" width="100px" /> |
-| HTML and CSS setup for ranking bars | This JavaScript snippet triggers animations. | CSS snippet for animation properties. |
-
-See full code [here](https://github.com/Huang-Yuanhang/Slack/tree/main/finished%20product%20-%20JCU%20Openhouse)
+Full code for the final version [here](https://github.com/HTUTKHANT/CMS_Assessment2-Project-/tree/main/final/final_version(prototype_3))
 
 ### a2.html
 This file contains our team's, names, live site links, and project documentation; notably brief Local Environment and site goals.
